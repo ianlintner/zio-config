@@ -119,7 +119,7 @@ uuid
 localDate
 localTime
 localDateTime
-Duration
+duration
 instant
 file
 url
