@@ -119,11 +119,11 @@ uuid
 localDate
 localTime
 localDateTime
+Duration
 instant
 file
 url
 etc
-
 ```
 
 Complex types include `list`, `map` etc. More details to follow
