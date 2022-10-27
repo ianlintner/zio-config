@@ -119,14 +119,15 @@ uuid
 localDate
 localTime
 localDateTime
-duration
+Duration
 instant
 file
 url
 etc
+
 ```
 
-Complex types include `list`, `map` etc. More details to follow
+Please find more details on the behaviour of `List` for various sources in `Sources` section of the documentation.
 
 ## Optional Types
 
