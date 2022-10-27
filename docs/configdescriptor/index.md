@@ -127,7 +127,7 @@ etc
 
 ```
 
-Please find more details on the behaviour of `List` for various sources in `Sources` section of the documentation.
+Complex types include list, map etc. More details to follow
 
 ## Optional Types
 
